@@ -44,8 +44,6 @@ int APIENTRY _tWinMain(HINSTANCE hInstance, HINSTANCE hPrevInstance,
 	int width = (40 + N) * 10;
 	int height = (40 - N) * 10;
 
-
-
 	hWnd = CreateWindowEx(NULL, g_lpszClassName,
 		g_lpszAplicationTitle,
 		WS_OVERLAPPEDWINDOW ^ WS_MAXIMIZEBOX,
