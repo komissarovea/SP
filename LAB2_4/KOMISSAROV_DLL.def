@@ -1,0 +1,8 @@
+LIBRARY "KOMISSAROV_DLL.dll"
+
+EXPORTS
+g_nDllCallsCount @1
+g_nFnCallsCount @2
+Fun101 @3
+Fun102 @4
+Fun103 @5

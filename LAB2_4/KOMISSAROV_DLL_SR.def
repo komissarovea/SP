@@ -1,0 +1,6 @@
+LIBRARY "KOMISSAROV_DLL_SR.dll"
+
+EXPORTS
+IndexCount
+WriteInfoToFile
+OpenNotepad
